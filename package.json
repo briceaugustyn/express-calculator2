@@ -1,0 +1,24 @@
+{
+  "name": "expresscalculator",
+  "version": "1.0.0",
+  "main": "ExpressCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.16.3",
+    "port": "^0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briceaugustyn/express-calculator2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/briceaugustyn/express-calculator2/issues"
+  },
+  "homepage": "https://github.com/briceaugustyn/express-calculator2#readme",
+  "description": ""
+}
